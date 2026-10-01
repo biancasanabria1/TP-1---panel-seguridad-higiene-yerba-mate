@@ -20,3 +20,10 @@ El desarrollo de este trabajo integró un flujo de trabajo asistido por IA para 
 ## Fuentes de Datos y Documentación en Google Drive
 
 Los archivos fuente utilizados para el análisis, procesamiento de datos y elaboración del panel web se encuentran almacenados y disponibles en Google Drive.
+Drive: [https://drive.google.com/drive/folders/1Lp0LiY06_SRhYHuAIt2PVq95Zl9-nXSX] 
+
+link de Netflify: [https://luminous-souffle-d8e37e.netlify.app] 
+
+
+
+
